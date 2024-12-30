@@ -1,0 +1,9 @@
+{
+    "development": {
+      "DATABASE_URI": "sqlite:///delivery_app.db"
+    },
+    "production": {
+      "DATABASE_URI": "postgres://username:password@host:port/database"
+    }
+  }
+  
